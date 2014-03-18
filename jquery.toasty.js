@@ -29,8 +29,8 @@
  		},
 
  		pop: function(){
- 			var toasty = document.getElementById('toasty-audio');
-			toasty.play();
+ 			var audio = document.getElementById('toasty-audio');
+			audio.play();
 			$("#toasty-guy-dan").addClass("show-dan");
 			setTimeout( function(){ $("#toasty-guy-dan").removeClass("show-dan"); }, 1000);
  		}
