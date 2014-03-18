@@ -1,0 +1,38 @@
+.show-dan{
+	-webkit-animation:showToastyGuy 1s;
+	   -moz-animation:showToastyGuy 1s;
+	     -o-animation:showToastyGuy 1s;
+	        animation:showToastyGuy 1s;
+}
+
+@-webkit-keyframes showToastyGuy 
+{
+	0% {right: -200px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -200px;}
+}
+
+@-moz-keyframes showToastyGuy 
+{
+	0% {right: -200px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -200px;}
+}
+
+@-o-keyframes showToastyGuy 
+{
+	0% {right: -200px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -200px;}
+}
+
+@keyframes showToastyGuy 
+{
+	0% {right: -200px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -200px;}
+}
