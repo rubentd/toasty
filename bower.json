@@ -1,0 +1,24 @@
+{
+  "name": "toasty",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rubentd/toasty",
+  "description": "Show Dan Forden's Toasty from Mortal Kombat as an Easter Egg for your website",
+  "authors": [
+    "Ruben Torres"
+  ],
+  "keywords": [
+    "toasty",
+    "dan",
+    "easteregg"
+  ],
+  "main": [
+    "jquery.toasty.min.js",
+    "toasty.min.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+    "jquery": ">=1.5.0"
+  }
+}
