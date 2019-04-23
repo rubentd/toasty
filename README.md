@@ -3,7 +3,7 @@ toasty
 
 Show Dan Forden's Toasty from Mortal Kombat as an Easter Egg for your website
 
-###Usage
+### Usage
 
 ```html
 <button id="toasty-button" style="padding:10px;">Show toasty</button>
@@ -21,5 +21,5 @@ Show Dan Forden's Toasty from Mortal Kombat as an Easter Egg for your website
 </script>
 ```
 
-###Demo and examples
+### Demo and examples
 [rubentd.com/toasty](http://rubentd.com/toasty)
